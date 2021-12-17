@@ -4,4 +4,4 @@
   Flor Sardela,
   Francisco Orquera,
   Federico Jaleh,
-  Tizziana Mazza,
+  Tizziana Mazza
