@@ -1,7 +1,7 @@
 # Proyecto-TDL-Grupo-Undefined
 
 ## Integrantes:
-  Flor Sardela,
+  Flor Sardella,
   Francisco Orquera,
   Federico Jaleh,
   Tizziana Mazza
